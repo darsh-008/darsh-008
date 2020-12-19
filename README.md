@@ -13,5 +13,5 @@
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darsh-008&show_icons=true&theme=dark&title_color=0c0404&text_color=000000&bg_color=f8f8ff&locale=en&layout=compact" alt="darsh-008" /></p>
 
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darsh-008&theme=default" alt="darsh-008" /></p>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darsh-008&theme=default" alt="darsh-008" /></p>
 
