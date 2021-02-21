@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Machine learning algorithms](https://github.com/darsh-008/Machine-Learning-Algorithms)
 
-- 🌱 I’m currently learning Natural Language Processing (NLP) 
+- 🌱 I’m currently learning **Natural Language Processing (NLP)**
 
-- 👯 I’m looking to collaborate on Python Projects 🐍
+- 👯 I’m looking to collaborate on **Python Projects** 🐍
 
 - 💬 Ask me about **Python & Web development**
 
-- 📫 How to reach me <a href="mailto:darshwork008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-181717?style=for-the-badge&logo=gmail"></a>
+- 📫 How to reach me <br> <a href="mailto:darshwork008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-181717?style=for-the-badge&logo=gmail"></a>
 
 - You can connect with me on - <br>
 <a href="https://www.linkedin.com/in/darsh-bhatt-n08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
