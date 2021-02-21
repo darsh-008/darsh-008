@@ -12,4 +12,11 @@
 - 📫 How to reach me **darshwork008@gmail.com**
 
 - You can connect with me on - <br>
-<a href="https://www.linkedin.com/in/darsh-bhatt-n08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">LinkedIN</th>
+    <th class="tg-0lax"><a href="https://www.linkedin.com/in/darsh-bhatt-n08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
+  </tr>
+</thead>
+</table>
