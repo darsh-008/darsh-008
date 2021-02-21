@@ -3,7 +3,11 @@
 
 - 🔭 I’m currently working on [Machine learning algorithms](https://github.com/darsh-008/Machine-Learning-Algorithms)
 
-- 💬 Ask me about **Python, Web development**
+- 🌱 I’m currently learning Natural Language Processing 
+
+- 👯 I’m looking to collaborate on Python Projects 🐍
+
+- 💬 Ask me about **Python & Web development**
 
 - 📫 How to reach me **darshwork008@gmail.com**
 
