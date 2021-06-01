@@ -7,8 +7,11 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on [Machine learning algorithms](https://github.com/darsh-008/Machine-Learning-Algorithms) 
+
 - 🌱 I’m currently learning **Natural Language Processing (NLP)**
+
 - 🦾 I’m looking to collaborate on **Python Projects** 🐍
+
 - 💬 Ask me about **Python & Web development**
 
 ## 🤝🏻 &nbsp;How to reach me 
