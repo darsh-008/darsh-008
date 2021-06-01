@@ -3,7 +3,7 @@
 <h3 align="center">An Enthusiast Computer Science engineer from India. Proficient in Python development and its libraries for Machine Learning.</h3> 
 <hr>
 
-<img align="right" width="350px" height="250px" alt="GIF" src="https://user-images.githubusercontent.com/60286697/120383140-1f944280-c342-11eb-8af7-2a09e228c660.gif" />
+<img align="right" width="350px" height="300px" alt="GIF" src="https://user-images.githubusercontent.com/60286697/120383140-1f944280-c342-11eb-8af7-2a09e228c660.gif" />
 
 ## 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on [Machine learning algorithms](https://github.com/darsh-008/Machine-Learning-Algorithms) 
