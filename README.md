@@ -18,7 +18,7 @@
 <a href="mailto:darshwork008@gmail.com"><img src="https://img.shields.io/badge/-Gmail-181717?style=for-the-badge&logo=gmail"></a> <a href="https://www.linkedin.com/in/darsh-bhatt-n08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.kaggle.com/darshbhatt"><img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" width="30" ></a>
 <br>
-## ⚙️ &nbsp;My GitHub Analytics
+<!--## ⚙️ &nbsp;My GitHub Analytics
 <table>
   <tr>
     <td>
@@ -26,7 +26,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darsh-008&layout=default&theme=tokyonight&hide=html&card_width=400&border_radius=0 )](https://github.com/anuraghazra/github-readme-stats" align='right'/></td>
   </tr>
-</table>
+</table> -->
 
 
 <!-- <table class="tg">
